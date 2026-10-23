@@ -1,9 +1,0 @@
-.DS_Store
-._*
-.env
-.env.*
-*.pem
-*.key
-node_modules/
-*.bak
-assets/
